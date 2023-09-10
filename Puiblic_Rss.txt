@@ -1,0 +1,77 @@
+# Market
+[Economic_Times_Market]
+link=https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms
+feed_type=Market
+
+# MF
+[Economic_Times_MF]
+link=https://economictimes.indiatimes.com/mf/rssfeeds/359241701.cms
+feed_type=Mutual Funds
+
+[Money_Control_MF]
+link=https://www.moneycontrol.com/rss/mfnews.xml
+feed_type=Mutual Funds
+
+# Crypto
+[Economic_Times_Crypto]
+link=https://economictimes.indiatimes.com/markets/cryptocurrency/rssfeeds/82519373.cms
+feed_type=Crypto
+
+# Bonds
+[Economic_Times_Bonds]
+link=https://economictimes.indiatimes.com/markets/bonds/rssfeeds/2146846.cms
+feed_type=Bonds
+
+# Banking & Finance
+[Economic_Times_Banking & Finance]
+link=https://economictimes.indiatimes.com/industry/banking/finance/rssfeeds/13358259.cms
+feed_type=Banking & Finance
+
+[The_Hindu_Business_line_Banking & Finance]
+link=https://www.thehindubusinessline.com/money-and-banking/feeder/default.rss
+feed_type=Banking & Finance
+
+# Stocks
+[Economic_Times_Stocks]
+link=https://economictimes.indiatimes.com/markets/stocks/rssfeeds/2146842.cms
+feed_type=Stocks
+
+[The_Hindu_Business_line_Stocks]
+link=https://www.thehindubusinessline.com/markets/stock-markets/feeder/default.rss
+feed_type=Stocks
+
+# IPO
+[Economic_Times_IPO]
+link=https://economictimes.indiatimes.com/markets/ipos/fpos/rssfeeds/14655708.cms
+feed_type=IPO
+
+# Gold News
+[Economic_Times_Gold]
+link=https://economictimes.indiatimes.com/rsssymbolfeeds/commodityname-Gold.cms
+feed_type=Gold News
+
+[The_Hindu_Business_line_Gold]
+link=https://www.thehindubusinessline.com/markets/gold/feeder/default.rss
+feed_type=Gold News
+
+# Commodities
+[Economic_Times_Commodities]
+link=https://economictimes.indiatimes.com/markets/commodities/rssfeeds/1808152121.cms
+feed_type=Commodities
+
+[Money_Control_Commodities]
+link=https://www.moneycontrol.com/rss/commodities.xml
+feed_type=Commodities
+
+[The_Hindu_Business_line_Commodities]
+link=https://www.thehindubusinessline.com/markets/commodities/feeder/default.rss
+feed_type=Commodities
+
+[Financial_Times_Commodities]
+link=https://www.ft.com/precious-metals?format=rss
+feed_type=Commodities
+
+# Insurance
+[Money_Control_Insurance]
+link=https://www.moneycontrol.com/rss/insurancenews.xml
+feed_type=Insurance
